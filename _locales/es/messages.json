@@ -1,0 +1,160 @@
+{
+	"save_attendants_btn": {
+		"message": "Guardar participantes"
+	},
+  "popup_auto_attendance": {
+    "message": "Asistencia automática"
+  },
+  "popup_auto_attendance_off_notice": {
+    "message": "APAGADO"
+  },
+  "popup_auto_attendance_description": {
+    "message": "Se abrirá una nueva pestaña al final de la reunión, mostrando los resultados"
+  },
+  "popup_open_history_btn": {
+    "message": "Abrir Historial de Reuniones"
+  },
+
+
+  "donate_title": {
+    "message": "¡Considere hacer una donación!"
+  },
+  "donate_paragraph1": {
+    "message": "Su donación ayuda a pagar por el desarrollo continuo de esta aplicación que es usada por miles de personas todos los días en cualquier parte del mundo de forma gratuita."
+  },
+  "donate_paragraph2": {
+    "message": "Esto no existiría sin su ayuda y apoyo. ¡Gracias!"
+  },
+
+
+  "options_menu_recent": {
+    "message": "Reciente"
+  },
+  "options_menu_most_recent": {
+    "message": "Reuniones más recientes"
+  },
+  "options_menu_feedback": {
+    "message": "Retroalimentación"
+  },
+  "options_meetings_history": {
+    "message": "Historial de Reuniones"
+  },
+  "options_no_meetings_found": {
+    "message": "No se encontró el historial de reuniones."
+  },
+  "options_table_header_name": {
+    "message": "Nombre"
+  },
+  "options_table_header_date": {
+    "message": "Fecha"
+  },
+  "options_table_header_attendees": {
+    "message": "Asistentes"
+  },
+  "options_table_header_first_seen": {
+    "message": "Visto por primera vez a las"
+  },
+  "options_table_header_time_in_call": {
+    "message": "Tiempo en la llamada"
+  },
+  "options_show_more_btn": {
+    "message": "Mostrar más"
+  },
+  "options_view_participants_btn": {
+    "message": "Ver participantes"
+  },
+  "options_edit_btn": {
+    "message": "Editar"
+  },
+  "options_edit_meeting_name": {
+    "message": "Nombre de la reunión"
+  },
+  "options_meeting_modal_title": {
+    "message": "Participantes de la reunión"
+  },
+  "options_meeting_modal_description": {
+    "message": "La lista de asistentes de \u003Cstrong>$NAME$\u003C/strong> de \u003Cstrong>$DATE$\u003C/strong>. Puede descargar una copia del informe en formato CSV.",
+    "placeholders": {
+      "name" : {
+        "content" : "$1",
+        "example" : "Awesome meeting"
+      },
+      "date" : {
+        "content" : "$2",
+        "example" : "Jun 10, 2021 7:00 PM"
+      }
+    }
+  },
+  "options_export_csv_btn": {
+    "message": "Exportar como CSV"
+  },
+  "options_export_pdf_btn": {
+    "message": "Exportar como PDF"
+  },
+  "options_delete_modal_title": {
+    "message": "¿Estas seguro?"
+  },
+  "options_delete_modal_description": {
+    "message": "¡Advertencia! Esta acción no se puede deshacer. ¿Está seguro de que desea eliminar la reunión \u003Cstrong>$NAME$\u003C/strong> de \u003Cstrong>$DATE$\u003C/strong>?",
+    "placeholders": {
+      "name" : {
+        "content" : "$1",
+        "example" : "Awesome meeting"
+      },
+      "date" : {
+        "content" : "$2",
+        "example" : "Jun 10, 2021 7:00 PM"
+      }
+    }
+  },
+  "options_delete_all_modal_description": {
+    "message": "\u003Cstrong>¡Advertencia! Esta acción no se puede deshacer.</strong> Perderá todas las reuniones guardadas hasta el momento. ¿Está seguro de que desea eliminar todo el historial de reuniones?"
+  },
+  "options_edit_modal_title": {
+    "message": "Renombrar Reunion"
+  },
+  "options_edit_modal_description": {
+    "message": "Los cambios en el nombre de la reunión se reflejarán en la tabla del historial de reuniones y en los archivos descargados."
+  },
+  "modal_delete_btn": {
+    "message": "Borrar"
+  },
+  "modal_delete_all_btn": {
+    "message": "Borrar todo"
+  },
+  "modal_save_btn": {
+    "message": "Guardar"
+  },
+  "modal_cancel_btn": {
+    "message": "Cancelar"
+  },
+
+
+  "updates_up_to_date": {
+    "message": "¡está actualizado"
+  },
+  "updates_latest_changes": {
+    "message": "Últimos cambios"
+  },
+  "updates_enjoying_app": {
+    "message": "¿Disfrutas de"
+  },
+  "updates_consider_supporting": {
+    "message": "Considera apoyarnos con una de las siguientes maneras"
+  },
+  "updates_rate_btn": {
+    "message": "Rate us"
+  },
+  "updates_rate_description": {
+    "message": "Tómese un momento y ayude a difundir Google Meet Attendance List, calificandolo. ¡Es rápido y gratis!"
+  },
+  "updates_donate_btn": {
+    "message": "Donación"
+  },
+  "updates_donate_description": {
+    "message": "Su donación ayuda a pagar el desarrollo continuo de esta aplicación, que utilizan miles de personas todos los días de forma gratuita."
+  },
+  "updates_donate2_btn": {
+    "message": "Contribuir"
+  }
+}

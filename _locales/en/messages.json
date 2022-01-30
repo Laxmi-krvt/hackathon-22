@@ -1,0 +1,162 @@
+{
+	"save_attendants_btn": {
+		"message": "Save attendance"
+	},
+
+
+  "popup_auto_attendance": {
+    "message": "Auto attendance"
+  },
+  "popup_auto_attendance_off_notice": {
+    "message": "OFF"
+  },
+  "popup_auto_attendance_description": {
+    "message": "A new tab will open at the end of the meeting, showing the results"
+  },
+  "popup_open_history_btn": {
+    "message": "Open Meetings History"
+  },
+
+
+  "donate_title": {
+    "message": "Please consider donating!"
+  },
+  "donate_paragraph1": {
+    "message": "Your donation helps pay for the continued development of this app that is used by thousands of people every day for free, anywhere in the world."
+  },
+  "donate_paragraph2": {
+    "message": "This wouldn't exist without your help and support. Thank you!"
+  },
+
+
+  "options_menu_recent": {
+    "message": "Recent"
+  },
+  "options_menu_most_recent": {
+    "message": "Most recent meetings"
+  },
+  "options_menu_feedback": {
+    "message": "Feedback"
+  },
+  "options_meetings_history": {
+    "message": "Meetings History"
+  },
+  "options_no_meetings_found": {
+    "message": "No meetings history found."
+  },
+  "options_table_header_name": {
+    "message": "Name"
+  },
+  "options_table_header_date": {
+    "message": "Date"
+  },
+  "options_table_header_attendees": {
+    "message": "Attendees"
+  },
+  "options_table_header_first_seen": {
+    "message": "First seen at"
+  },
+  "options_table_header_time_in_call": {
+    "message": "Time in call"
+  },
+  "options_show_more_btn": {
+    "message": "Show more"
+  },
+  "options_view_participants_btn": {
+    "message": "View Participants"
+  },
+  "options_edit_btn": {
+    "message": "Edit"
+  },
+  "options_edit_meeting_name": {
+    "message": "Meeting name"
+  },
+  "options_meeting_modal_title": {
+    "message": "Meeting Participants"
+  },
+  "options_meeting_modal_description": {
+    "message": "The attendee list for \u003Cstrong>$NAME$\u003C/strong> from \u003Cstrong>$DATE$\u003C/strong>. You can download a copy of the report in CSV format.",
+    "placeholders": {
+      "name" : {
+        "content" : "$1",
+        "example" : "Awesome meeting"
+      },
+      "date" : {
+        "content" : "$2",
+        "example" : "Jun 10, 2021 7:00 PM"
+      }
+    }
+  },
+  "options_export_csv_btn": {
+    "message": "Export as CSV"
+  },
+  "options_export_pdf_btn": {
+    "message": "Export as PDF"
+  },
+  "options_delete_modal_title": {
+    "message": "Are you sure?"
+  },
+  "options_delete_modal_description": {
+    "message": "Warning! This action cannot be undone. Are you sure you want to delete meeting \u003Cstrong>$NAME$\u003C/strong> from \u003Cstrong>$DATE$\u003C/strong>?",
+    "placeholders": {
+      "name" : {
+        "content" : "$1",
+        "example" : "Awesome meeting"
+      },
+      "date" : {
+        "content" : "$2",
+        "example" : "Jun 10, 2021 7:00 PM"
+      }
+    }
+  },
+  "options_delete_all_modal_description": {
+    "message": "\u003Cstrong>Warning! This action cannot be undone.</strong> You will lose all of the meetings saved so far. Are you sure you want to delete all meetings history?"
+  },
+  "options_edit_modal_title": {
+    "message": "Update Meeting"
+  },
+  "options_edit_modal_description": {
+    "message": "Changes to the meeting name will be reflected across the meetings history table and in the downloaded files."
+  },
+  "modal_delete_btn": {
+    "message": "Delete"
+  },
+  "modal_delete_all_btn": {
+    "message": "Delete All"
+  },
+  "modal_save_btn": {
+    "message": "Save"
+  },
+  "modal_cancel_btn": {
+    "message": "Cancel"
+  },
+
+
+  "updates_up_to_date": {
+    "message": "is up-to-date"
+  },
+  "updates_latest_changes": {
+    "message": "Latest Changes"
+  },
+  "updates_enjoying_app": {
+    "message": "Enjoying"
+  },
+  "updates_consider_supporting": {
+    "message": "Consider supporting us in one of the two ways"
+  },
+  "updates_rate_btn": {
+    "message": "Rate us"
+  },
+  "updates_rate_description": {
+    "message": "Please take a moment and help spread the word by rating Google Meet Attendance List. It's quick and free!"
+  },
+  "updates_donate_btn": {
+    "message": "Donate"
+  },
+  "updates_donate_description": {
+    "message": "Your donation helps pay for the continued development of this app that is used by thousands of people every day for free."
+  },
+  "updates_donate2_btn": {
+    "message": "Contribute"
+  }
+}
